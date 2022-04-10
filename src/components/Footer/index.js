@@ -3,11 +3,11 @@ import { Icon } from '@iconify/react';
 
 const Footer = () => {
     return (
-        <footer className="w-100 mt-auto bg-secondary p-4">
-            <div className="container">
+        <footer className="w-100 mt-auto bg-secondary p-4 flex-row align-center">
+            <div className="container flex-row justify-space-between-lg justify-center align-center">
                 &copy;{new Date().getFullYear()} by Dani Reinholz
             </div>
-            <nav>
+            <nav className='text-center'>
                 <ul>
                     <a href='https://github.com/reinholz36' title='GitHub' rel='noreferrer' target='_blank'>
                         <Icon icon="akar-icons:github-outline-fill" height="40" />
