@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio-using-react/static/css/main.2a93e497.css",
+    "main.js": "/portfolio-using-react/static/js/main.0f64b920.js",
+    "static/js/787.ac76684b.chunk.js": "/portfolio-using-react/static/js/787.ac76684b.chunk.js",
+    "static/media/profilephoto.jpg": "/portfolio-using-react/static/media/profilephoto.a4178dd19e4ccc7971f8.jpg",
+    "static/media/dreamjournal.png": "/portfolio-using-react/static/media/dreamjournal.ee78c217360e578ff84b.png",
+    "static/media/weather-background.png": "/portfolio-using-react/static/media/weather-background.c96ba4aea35419950060.png",
+    "static/media/Employee-Tracker.png": "/portfolio-using-react/static/media/Employee-Tracker.b29afc068f16e1c10693.png",
+    "static/media/pg-hdg-title.png": "/portfolio-using-react/static/media/pg-hdg-title.cd4a77e0d64cf22a1aad.png",
+    "static/media/codequiz.png": "/portfolio-using-react/static/media/codequiz.63f279c356ec6fa01519.png",
+    "static/media/pgsite.png": "/portfolio-using-react/static/media/pgsite.71b42f4b92c81bb233b9.png",
+    "index.html": "/portfolio-using-react/index.html",
+    "main.2a93e497.css.map": "/portfolio-using-react/static/css/main.2a93e497.css.map",
+    "main.0f64b920.js.map": "/portfolio-using-react/static/js/main.0f64b920.js.map",
+    "787.ac76684b.chunk.js.map": "/portfolio-using-react/static/js/787.ac76684b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a93e497.css",
+    "static/js/main.0f64b920.js"
+  ]
+}
