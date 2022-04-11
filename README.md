@@ -22,8 +22,8 @@ SO THAT I can assess whether they're a good candidate for an open position
 
 https://reinholz36.github.io/portfolio-using-react/
 
-<a href="https://tranquil-wave-47515.herokuapp.com/">
-<img src="./assets/images/techblog.jpg" alt="Tech Blog" page title">
+<a href="https://reinholz36.github.io/portfolio-using-react">
+<img src="./src/assets/images/Portfolioreadme.png" alt="React Portfolio" page title">
 </a>
 
 
