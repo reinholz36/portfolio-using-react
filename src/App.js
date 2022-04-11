@@ -1,10 +1,9 @@
 import React, { useState } from 'react';
-
+import 'bootstrap/dist/css/bootstrap.min.css';
 import About from './components/About';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 import Header from './components/Header';
-// import NoMatch from './components/NoMatch';
 import Project from './components/Project';
 
 
@@ -19,7 +18,7 @@ const selectedPage = () => {
   if (currentPage === 'Contact') {
     return <Contact />
   }
-  if (currentPage === 'Project') {
+  if (currentPage === 'Portfolio') {
     return <Project />
   }
   
@@ -27,17 +26,21 @@ const selectedPage = () => {
 
 const pageChange = (page) => setCurrentPage(page);
 
-// function App() {
+
   return (
   <>
+  <header>
   <Header currentPage={currentPage} pageChange={pageChange}/>
+  </header>
+
   <main>
     {selectedPage()}
   </main>
+ 
+  <footer>
   <Footer />
+  </footer>
   </>
   );
 }
-// }
 
-// export default App;
